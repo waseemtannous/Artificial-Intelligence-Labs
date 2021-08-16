@@ -1,0 +1,15 @@
+population_size = 200
+max_iterations = 16384
+elite_rate = 0.1
+mutation_rate = 0.5
+K_variable_(tournament_selection) = 10
+min_age = 2
+max_age = 30
+linear_scaling_A = 1
+linear_scaling_B = 10
+local_optimum_iterations_limit = 30
+selection_Type_RWS = 1
+selection_Type_SUS = 0
+selection_Type_TOURNAMENT = 0
+mutation_Type_EXCHANGE = 1
+mutation_Type_SIMPLE_INVERSION = 0

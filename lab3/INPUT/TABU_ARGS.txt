@@ -1,0 +1,9 @@
+MAX_ITER = 3000
+LOCAL_OPTIMUM_STOP = 25
+MAX_TABU = 20
+NEIGHBORS_NUM = 20
+fitness_type_feasible = 1
+fitness_type_objective = 0
+fitness_type_hybrid = 0
+neighborhoodType_regular = 1
+neighborhoodType_kempe = 0

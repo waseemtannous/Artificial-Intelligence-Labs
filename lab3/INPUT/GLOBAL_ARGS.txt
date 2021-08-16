@@ -1,0 +1,2 @@
+max_time(sec) = 60
+input_file_path = instances\queen8_8.col
